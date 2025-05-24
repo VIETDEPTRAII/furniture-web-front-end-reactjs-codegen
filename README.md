@@ -14,6 +14,10 @@ A modern, responsive React application for a furniture e-commerce website.
   - Testimonials
   - Newsletter signup
 
+## Screenshots
+
+![Landing Page](https://via.placeholder.com/800x400?text=Furniture+Web+App+Landing+Page)
+
 ## Getting Started
 
 ### Prerequisites
